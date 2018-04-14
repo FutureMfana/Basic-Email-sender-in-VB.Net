@@ -1,0 +1,9 @@
+C:\Users\STUDENT\Documents\Visual Studio 2012\Projects\VB.Net\EMail Sender\EMail Sender\obj\Debug\EMail_Sender.Form1.resources
+C:\Users\STUDENT\Documents\Visual Studio 2012\Projects\VB.Net\EMail Sender\EMail Sender\obj\Debug\EMail_Sender.Resources.resources
+C:\Users\STUDENT\Documents\Visual Studio 2012\Projects\VB.Net\EMail Sender\EMail Sender\obj\Debug\EMail Sender.vbproj.GenerateResource.Cache
+C:\Users\STUDENT\Documents\Visual Studio 2012\Projects\VB.Net\EMail Sender\EMail Sender\bin\Debug\EMail Sender.exe
+C:\Users\STUDENT\Documents\Visual Studio 2012\Projects\VB.Net\EMail Sender\EMail Sender\bin\Debug\EMail Sender.pdb
+C:\Users\STUDENT\Documents\Visual Studio 2012\Projects\VB.Net\EMail Sender\EMail Sender\bin\Debug\EMail Sender.xml
+C:\Users\STUDENT\Documents\Visual Studio 2012\Projects\VB.Net\EMail Sender\EMail Sender\obj\Debug\EMail Sender.exe
+C:\Users\STUDENT\Documents\Visual Studio 2012\Projects\VB.Net\EMail Sender\EMail Sender\obj\Debug\EMail Sender.xml
+C:\Users\STUDENT\Documents\Visual Studio 2012\Projects\VB.Net\EMail Sender\EMail Sender\obj\Debug\EMail Sender.pdb
